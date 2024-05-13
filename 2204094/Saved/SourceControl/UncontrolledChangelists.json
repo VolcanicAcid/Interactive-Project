@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Interactive-Project/2204094/Content/Flat_Layout_Initial.umap",
+				"D:/Interactive-Project/2204094/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Interactive-Project/2204094/Content/FirstPerson/Blueprints/BP_DOG.uasset",
 				"E:/Uni Stuff/Year 1 Term 2/Narrative Project/MyProject2 Original - Copy/Content/Flat_Layout_Initial.umap",
 				"E:/Uni Stuff/Year 1 Term 2/Narrative Project/MyProject2 Original - Copy/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"E:/Uni Stuff/Year 1 Term 2/Narrative Project/MyProject2 Original - Copy/Content/AssetsvilleTown/Materials/MI_ColorPalette.uasset",
